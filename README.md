@@ -146,6 +146,14 @@ This project includes **17 advanced SQL queries** to extract business insights:
 
 **Page 4 — Key Insights & Recommendations**
 - Top risk segments table & business recommendations
+<br>
+<img width="413" height="245" alt="Screenshot 2026-05-20 115507" src="https://github.com/user-attachments/assets/49ec83a6-ff56-456b-8b05-5f6989dfc899" />
+<br>
+<img width="413" height="240" alt="Screenshot 2026-05-20 115521" src="https://github.com/user-attachments/assets/bdb4ba87-c0be-471e-90e4-fd4de1bc3991" />
+<br>
+<img width="413" height="239" alt="Screenshot 2026-05-20 115533" src="https://github.com/user-attachments/assets/e818d0a9-8bbf-4854-89e0-a68e182e8db7" />
+<br>
+<img width="409" height="236" alt="Screenshot 2026-05-20 115548" src="https://github.com/user-attachments/assets/f8631135-bb88-45c5-b6ea-18a36b662e7f" />
 
 ---
 
